@@ -9,7 +9,7 @@ class BuyPage extends StatelessWidget {
   final String phoneNumber;
   final String address;
   final double itemPrice;
-  final double makingCharges;
+  final double makingCharges; 
   final double tax;
   final double totalAmount;
   final String imagePath;
