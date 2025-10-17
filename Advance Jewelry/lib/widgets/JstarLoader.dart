@@ -11,7 +11,7 @@ class _JstarLoaderState extends State<JstarLoader> with SingleTickerProviderStat
 
   @override
   void initState() {
-    super.initState();
+    super.initState(); 
     _controller = AnimationController(duration: Duration(seconds: 1), vsync: this)..repeat();
   }
 
