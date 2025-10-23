@@ -12,7 +12,7 @@ class Order {
     required this.title,
     required this.price,
     required this.category,
-    required this.orderTime,
+    required this.orderTime, 
   });
 
   Map<String, dynamic> toMap() {
