@@ -9,7 +9,7 @@ class ArRing extends StatelessWidget {
     return Scaffold(
         backgroundColor: Colors.white,
         appBar: AppBar(),
-        body: const Center(
+        body: const Center( 
             child: ModelViewer(
           src: 'assets/glb/ring1.glb',
           ar: true,
