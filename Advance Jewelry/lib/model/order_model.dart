@@ -4,7 +4,7 @@ class Order {
   final String title;
   final double price;
   final String category;
-  final DateTime orderTime;
+  final DateTime orderTime;  
  
   Order({
     required this.id,
