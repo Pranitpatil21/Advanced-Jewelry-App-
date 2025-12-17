@@ -7,7 +7,7 @@ class ProductCard extends StatefulWidget {
   final double totalWeight;
   final double stoneWeight;
   final double goldRate; 
-
+ 
   ProductCard({
     required this.imagePath,
     required this.title,
