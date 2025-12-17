@@ -7,7 +7,7 @@ import 'package:flutter_application_1/databas/order_database_helper.dart';
 class BuyPage extends StatelessWidget {
   final String contactInfo;
   final String phoneNumber;
-  final String address;
+  final String address; 
   final double itemPrice;
   final double makingCharges; 
   final double tax;
