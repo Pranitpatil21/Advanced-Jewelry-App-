@@ -16,7 +16,7 @@ class _ChaincategoryscrrenState extends State<Chaincategoryscrren> {
 
   // Sample data for rings with unique weights and stone weights
   final List<Map<String, dynamic>> rings = [
-    
+     
 {
 
       'imagePath': 'assets/Chains/chain1.jpg',
