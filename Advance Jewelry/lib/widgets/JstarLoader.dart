@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-class JstarLoader extends StatefulWidget {
+class JstarLoader extends StatefulWidget { 
   @override
   _JstarLoaderState createState() => _JstarLoaderState();
 }
