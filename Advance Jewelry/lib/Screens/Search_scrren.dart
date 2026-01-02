@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_application_1/Screens/category_screen.dart';
+import 'package:flutter_application_1/Screens/category_screen.dart'; 
 import 'package:flutter_application_1/widgets/JstarLoader.dart';
 
 class SearchScreen extends StatefulWidget {
