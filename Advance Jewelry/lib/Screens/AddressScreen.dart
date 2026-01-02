@@ -3,7 +3,7 @@ import 'package:flutter_application_1/Screens/BuyPage.dart';
  
 
 class AddressScreen extends StatefulWidget {
-  final double itemPrice; 
+  final double itemPrice;  
   final double makingCharges;
   final double tax;
   final double totalAmount;
