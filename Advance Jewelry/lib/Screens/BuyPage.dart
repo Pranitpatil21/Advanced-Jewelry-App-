@@ -14,7 +14,7 @@ class BuyPage extends StatelessWidget {
   final double totalAmount;
   final String imagePath;   
   final String category;
-  final List<Map<String, dynamic>> products;
+  final List<Map<String, dynamic>> products; 
   final VoidCallback onOrderPlaced; // Callback to notify MyOrdersScreen
 
   BuyPage({
