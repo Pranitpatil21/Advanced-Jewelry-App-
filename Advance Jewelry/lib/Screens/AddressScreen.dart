@@ -6,7 +6,7 @@ class AddressScreen extends StatefulWidget {
   final double itemPrice;  
   final double makingCharges;
   final double tax;
-  final double totalAmount;
+  final double totalAmount; 
   final String imagePath;
   final String category;
 
@@ -40,7 +40,7 @@ class _AddressScreenState extends State<AddressScreen> {
       },
       // Add more products here dynamically if selected
     ];
-
+ 
     if (_formKey.currentState!.validate()) {
       Navigator.push(
   context,
